@@ -1,5 +1,5 @@
 
-**PROJE ANA TEMASI:**
+**PROJENİN ANA TEMASI:**
 
 Proje, NetBeans IDE'de Java diliyle yazılmış olup araç kiralama sistemini içermektedir. Müşteri ve personel girişi vardır. Giriş yapılan ve kayıt olunan müşteriler veritabanında ayrı tablolarda 
 tutulmaktadır. Müşteri, giriş yaptığında araç kiralayabilir. Id değerine göre araçlar önünde listelenir ve müşteri id'den araç seçer. Kiralanacağı gün sayısını ayarlar ve kiralanan gün sayısıyla aracın 
